@@ -6,6 +6,12 @@ En el campo de la computacion, la interaccion 3D es una forma de intereaccion en
 
 Para lograr esta interaccion se suele usar un dispositivo de entrada, que detecta los movimientos e interacciones del usuario para simular la escena y las acciones que se realizaron en un dispositivo de salida.
 
+## Historia
+
+Los primeros avances en la interaccion y visualizacion en 3D comenzó en la decada de 1960, por investigadores como Ivan Sutherland, Fred Brooks, Bob Sproull, Andrew Ortony y Richard Feldman. Sin embargo, no fue hasta 1962 cuando Morton Heilig inventó el simulador Sensorama, el cual proporcionó retroalimentación de video 3D, así como movimiento, audio y para producir un entorno virtual. La siguiente etapa de desarrollo fue la finalización del trabajo pionero de Ivan Sutherland en 1968, la Espada de Damocles, que invento una pantalla montada en la cabeza que producía un entorno virtual en 3D al presentar una imagen fija de izquierda y derecha de ese entorno.
+
+La disponibilidad de la tecnología, así como los costos poco prácticos, frenaron el desarrollo y la aplicación de entornos virtuales hasta la década de 1980 y las aplicaciones se limitaron a empresas militares en los Estados Unidos. Desde entonces, más investigaciones y avances tecnológicos han permitido que se abran nuevas puertas para la aplicación en otras áreas, como la educación, el entretenimiento y la fabricación.
+
 ## Selection and Manipulation
 
 Las tecnicas en este campo se basan principalmente en completar tres tareas basicas:
