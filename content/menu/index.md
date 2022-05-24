@@ -10,5 +10,7 @@ headless: true
 - [Hints]({{< relref "/docs/shortcodes/hints" >}})
 - [Katex]({{< relref "/docs/shortcodes/katex" >}})
 - [Mermaid]({{< relref "/docs/shortcodes/mermaid" >}})
-- [Tabs]({{< relref "/docs/shortcodes/tabs" >}})
+- [Bandas de Mach]({{< relref "/docs/shortcodes/machBand" >}})
+- [Software Rendering]({{< relref "/docs/shortcodes/softwareRendering" >}})
+- [3D User Interaction]({{< relref "/docs/shortcodes/3dUserInteraction" >}})
 <br />
