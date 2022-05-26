@@ -1,6 +1,6 @@
-baseURL = "https://visualcomputing.github.io/showcase"
+baseURL = "https://visualcomputing-andgonzalezmar.github.io/showcase/"
 languageCode = "en-us"
-title = "Showcase Template"
+title = "Entregas Visual"
 theme = 'book'
 
 # Book configuration
