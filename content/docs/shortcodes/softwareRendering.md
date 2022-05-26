@@ -19,7 +19,7 @@ Este es un conjunto de componentes , creados por Microsoft para los equipos que 
 
 ### Neural Rendering
 
-Un efeciente renderizado de un mundo virtual foto realista es bastante complejo para los graficos generados por computadora, problema que si es solucionado podria hacer que estos graficos sean mas accesibles. Hoy en fia se encuentran avances en computacion visual y aprendizaje de maquina que buscan superar este reto, con los "Modelos generativos profundos" (Deep Generative Models).
+Un efeciente renderizado de un mundo virtual foto realista es bastante complejo para los graficos generados por computadora, problema que si es solucionado podria hacer que estos graficos sean mas accesibles. Hoy en dia se encuentran avances en computacion visual y aprendizaje de maquina que buscan superar este reto, con los "Modelos generativos profundos" (Deep Generative Models).
 
 El Renderizado Neural (Neural Rendering) es un nuevo campo que combina tecnicas del aprendizaje de maquina con la computacion grafica, integrando diferentes algoritmos de renderizado para entrenar una red neuronal.
 
