@@ -1,6 +1,6 @@
 {
-  "name": "Showcase Template",
-  "short_name": "Showcase Template",
+  "name": "Entregas Visual",
+  "short_name": "Entregas Visual",
   "start_url": "/showcase/",
   "scope": "/showcase/",
   "display": "standalone",
